@@ -1,2 +1,3 @@
 Entendendo o Head 
 Mais um commit 
+Esta linha foi modificada no ramo master
